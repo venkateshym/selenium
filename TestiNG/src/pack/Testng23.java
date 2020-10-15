@@ -14,6 +14,7 @@ public class Testng23 {
 		@Test
 		public void Rev(){
 			System.out.println("Car Loan 5 - 3");	
+			System.out.println("Car Loan 5 - 4");
 		}
 }
 
